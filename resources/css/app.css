@@ -1398,10 +1398,11 @@ h1 {
 
 .footer-copyright {
     flex-basis: 100%;
-    margin-top: 18px;
-    background: var(--ink);
-    color: #fff;
-    padding: 16px 18px;
+    margin-top: 10px;
+    border-top: 1px solid var(--line);
+    padding-top: 18px;
+    color: var(--muted);
+    font-size: 0.95rem;
 }
 
 .site-footer strong {
