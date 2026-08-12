@@ -21,7 +21,6 @@
             <a href="{{ route('about') }}">About Us</a>
             <a href="{{ route('booking') }}">Booking</a>
         </nav>
-        <a class="header-cta" href="{{ route('booking') }}">Book Your Event</a>
     </header>
 
     <main id="home">
@@ -195,82 +194,31 @@
 
         <section id="booking" class="contact-section">
             <div class="contact-copy">
-                <p class="eyebrow">Book Your Event</p>
-                <h2>Planning Something Beautiful?</h2>
+                <p class="eyebrow">Start Here</p>
+                <h2>Let's Start With Your Idea</h2>
                 <p>
-                    Tell us what you are celebrating and let us create something unforgettable.
-                    Share your event details or flower request and we will respond with the best next step.
+                    Tell us what you are planning and we will guide you to the right next step,
+                    whether it is full event styling, flowers, or a custom surprise setup.
                 </p>
                 <a class="whatsapp-panel-link" href="https://wa.me/254746761556">Chat on WhatsApp</a>
             </div>
-            <form class="contact-form" action="{{ route('booking.request') }}" method="post" enctype="multipart/form-data" data-whatsapp-form data-whatsapp-context="Joya Atelier event booking request">
-                @csrf
-                <label>
-                    <span>Name</span>
-                    <input type="text" name="name" placeholder="Your name">
-                </label>
-                <label>
-                    <span>Phone Number</span>
-                    <input type="tel" name="phone" placeholder="+254 746 761 556">
-                </label>
-                <label>
-                    <span>Request Type</span>
-                    <select name="request_type">
-                        <option>Book an event</option>
-                        <option>Order flowers</option>
-                        <option>Event styling and flowers</option>
-                        <option>Gift package</option>
-                    </select>
-                </label>
-                <div class="form-row">
-                    <label>
-                        <span>Event / Delivery Date</span>
-                        <input type="date" name="event_date">
-                    </label>
-                    <label>
-                        <span>Number of Guests</span>
-                        <input type="number" name="guests" placeholder="80">
-                    </label>
-                </div>
-                <label>
-                    <span>Location</span>
-                    <input type="text" name="location" placeholder="Venue, delivery area, or city">
-                </label>
-                <label>
-                    <span>Preferred Colors / Theme</span>
-                    <input type="text" name="theme" placeholder="Ivory, blush, champagne gold">
-                </label>
-                <label>
-                    <span>Budget Range</span>
-                    <select name="budget">
-                        <option>Still deciding</option>
-                        <option>Below KSh 20,000</option>
-                        <option>KSh 20,000 - 50,000</option>
-                        <option>KSh 50,000 - 100,000</option>
-                        <option>KSh 100,000+</option>
-                    </select>
-                </label>
-                <fieldset>
-                    <legend>Services Needed</legend>
-                    <div class="checkbox-grid">
-                        <label><input type="checkbox" name="services[]" value="Flowers"> Flowers</label>
-                        <label><input type="checkbox" name="services[]" value="Balloons"> Balloons</label>
-                        <label><input type="checkbox" name="services[]" value="Backdrop"> Backdrop</label>
-                        <label><input type="checkbox" name="services[]" value="Tables"> Tables</label>
-                        <label><input type="checkbox" name="services[]" value="Full setup"> Full setup</label>
-                        <label><input type="checkbox" name="services[]" value="Other"> Other</label>
-                    </div>
-                </fieldset>
-                <label>
-                    <span>Inspiration Photo</span>
-                    <input type="file" name="inspiration_photo" accept="image/*">
-                </label>
-                <label>
-                    <span>Details</span>
-                    <textarea name="details" rows="4" placeholder="Tell us about the mood, bouquet, package, or setup you want"></textarea>
-                </label>
-                <button type="submit">Start Your Booking</button>
-            </form>
+            <div class="quick-paths" aria-label="Choose how to start with Joya Atelier">
+                <a href="{{ route('booking') }}">
+                    <span>01</span>
+                    <strong>Plan an Event</strong>
+                    <em>Use the full booking form for dates, guest count, theme, venue, and setup details.</em>
+                </a>
+                <a href="{{ route('flowers') }}">
+                    <span>02</span>
+                    <strong>Shop Flowers</strong>
+                    <em>Explore fresh bouquets, handmade flowers, ribbon designs, and custom gift pieces.</em>
+                </a>
+                <a href="https://wa.me/254746761556?text=Hello%20Joya%20Atelier%2C%20I%20would%20like%20to%20ask%20about%20an%20event%20or%20flower%20order.">
+                    <span>03</span>
+                    <strong>Ask a Question</strong>
+                    <em>Start on WhatsApp if you are still deciding what you need or want quick guidance.</em>
+                </a>
+            </div>
         </section>
 
         <section class="flower-cta">
