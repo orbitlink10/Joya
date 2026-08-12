@@ -28,22 +28,27 @@
             <div class="hero-slides" aria-hidden="true">
                 <img
                     class="hero-image is-active"
-                    src="{{ asset('images/events/joya-event-setup-pink-gold.png') }}"
+                    src="{{ asset('images/events/joya-hero-birthday-pink-gold.png') }}"
                     alt=""
                 >
                 <img
                     class="hero-image"
-                    src="{{ asset('images/events/pretty-table-styling.jpg') }}"
+                    src="{{ asset('images/events/joya-hero-blush-tablescape.png') }}"
                     alt=""
                 >
                 <img
                     class="hero-image"
-                    src="{{ asset('images/events/white-gold-party-table.jpg') }}"
+                    src="{{ asset('images/events/joya-hero-bride-to-be-sage.png') }}"
                     alt=""
                 >
                 <img
                     class="hero-image"
-                    src="{{ asset('images/events/outdoor-pink-balloon-event.jpg') }}"
+                    src="{{ asset('images/events/joya-hero-blue-gold-wedding.png') }}"
+                    alt=""
+                >
+                <img
+                    class="hero-image"
+                    src="{{ asset('images/events/joya-hero-better-together.png') }}"
                     alt=""
                 >
             </div>
@@ -53,6 +58,7 @@
             </div>
             <div class="hero-slide-dots" aria-label="Hero slideshow progress">
                 <span class="is-active"></span>
+                <span></span>
                 <span></span>
                 <span></span>
                 <span></span>
@@ -221,14 +227,6 @@
             </div>
         </section>
 
-        <section class="flower-cta">
-            <div>
-                <p class="eyebrow dark">Need Flowers Today?</p>
-                <h2>Send someone a little joy.</h2>
-            </div>
-            <a class="primary-btn" href="{{ route('flowers') }}">Shop Bouquets</a>
-        </section>
-
         <section class="social-section">
             <p class="eyebrow dark">Follow Our Latest Creations</p>
             <h2>See what Joya Atelier is creating next.</h2>
@@ -239,36 +237,6 @@
             </div>
         </section>
 
-        <section class="promise-strip" aria-label="Joya Atelier promises">
-            <article>
-                <span class="promise-icon">01</span>
-                <div>
-                    <h2>Bespoke Designs</h2>
-                    <p>Custom designs tailored to your vision</p>
-                </div>
-            </article>
-            <article>
-                <span class="promise-icon">02</span>
-                <div>
-                    <h2>Fresh & Beautiful</h2>
-                    <p>Premium flowers for every special moment</p>
-                </div>
-            </article>
-            <article>
-                <span class="promise-icon">03</span>
-                <div>
-                    <h2>Quality & Detail</h2>
-                    <p>Exceptional quality and attention to every detail</p>
-                </div>
-            </article>
-            <article>
-                <span class="promise-icon">04</span>
-                <div>
-                    <h2>Made With Love</h2>
-                    <p>Passionate about creating memories that last</p>
-                </div>
-            </article>
-        </section>
     </main>
 
     <footer class="site-footer">
@@ -286,6 +254,9 @@
             <p><a href="{{ route('home') }}">Home</a> | <a href="{{ route('about') }}">About</a> | <a href="{{ route('events') }}">Events</a> | <a href="{{ route('flowers') }}">Flowers</a> | <a href="{{ route('home') }}#work">Gallery</a> | <a href="{{ route('booking') }}">Booking</a></p>
             <p>Instagram | TikTok | Facebook</p>
         </div>
+        <p class="footer-copyright">
+            &copy; {{ date('Y') }} Joya Atelier. Events, decor, florals, gifting, and styling across Kenya.
+        </p>
     </footer>
 </body>
 </html>

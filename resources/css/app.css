@@ -213,13 +213,14 @@ img {
     object-fit: cover;
     object-position: center;
     opacity: 0;
-    transform: scale(1.03);
-    transition: opacity 1000ms ease, transform 5000ms ease;
+    transform: none;
+    image-rendering: auto;
+    transition: opacity 900ms ease;
+    user-select: none;
 }
 
 .image-hero .hero-image.is-active {
     opacity: 1;
-    transform: scale(1);
 }
 
 .image-hero::after {
@@ -1386,12 +1387,21 @@ h1 {
 .site-footer {
     width: min(1180px, calc(100% - 32px));
     margin: 0 auto;
+    flex-wrap: wrap;
     justify-content: space-between;
     gap: 18px;
     border-top: 1px solid var(--line);
     padding: 28px 0 42px;
     color: var(--muted);
     font-weight: 700;
+}
+
+.footer-copyright {
+    flex-basis: 100%;
+    margin-top: 18px;
+    background: var(--ink);
+    color: #fff;
+    padding: 16px 18px;
 }
 
 .site-footer strong {
@@ -1435,7 +1445,7 @@ h1 {
 }
 
 .home-top-menu + main .image-hero {
-    height: calc(100vh - 111px);
+    height: calc(100vh - 118px);
     min-height: 620px;
 }
 
