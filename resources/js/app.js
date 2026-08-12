@@ -1,6 +1,6 @@
 import './bootstrap';
 
-const whatsappNumber = '254700000000';
+const whatsappNumber = '254746761556';
 
 document.querySelectorAll('[data-hero-carousel]').forEach((carousel) => {
     const slides = Array.from(carousel.querySelectorAll('.hero-image'));
@@ -24,13 +24,19 @@ document.querySelectorAll('[data-hero-carousel]').forEach((carousel) => {
 });
 
 document.querySelectorAll('[data-whatsapp-form]').forEach((form) => {
-    form.addEventListener('submit', (event) => {
+    form.addEventListener('submit', async (event) => {
         event.preventDefault();
 
         const formData = new FormData(form);
         const lines = [form.dataset.whatsappContext || 'Joya Atelier enquiry'];
+        const submitButton = form.querySelector('[type="submit"]');
+        const originalButtonText = submitButton?.textContent;
 
         for (const [key, value] of formData.entries()) {
+            if (key === '_token') {
+                continue;
+            }
+
             if (value instanceof File) {
                 if (value.name) {
                     lines.push(`${formatLabel(key)}: ${value.name}`);
@@ -46,9 +52,55 @@ document.querySelectorAll('[data-whatsapp-form]').forEach((form) => {
             }
         }
 
-        window.open(`https://wa.me/${whatsappNumber}?text=${encodeURIComponent(lines.join('\n'))}`, '_blank');
+        const whatsappUrl = `https://wa.me/${whatsappNumber}?text=${encodeURIComponent(lines.join('\n'))}`;
+        const whatsappWindow = window.open('', '_blank');
+
+        submitButton?.setAttribute('disabled', 'disabled');
+
+        if (submitButton) {
+            submitButton.textContent = 'Sending...';
+        }
+
+        try {
+            await sendEmailCopy(form, formData);
+            openWhatsapp(whatsappUrl, whatsappWindow);
+            form.reset();
+        } catch (error) {
+            openWhatsapp(whatsappUrl, whatsappWindow);
+            window.alert('Your WhatsApp message is ready, but the email copy could not be sent. Please check the mail settings.');
+        } finally {
+            submitButton?.removeAttribute('disabled');
+
+            if (submitButton && originalButtonText) {
+                submitButton.textContent = originalButtonText;
+            }
+        }
     });
 });
+
+function openWhatsapp(url, whatsappWindow) {
+    if (whatsappWindow) {
+        whatsappWindow.location.href = url;
+        return;
+    }
+
+    window.location.href = url;
+}
+
+async function sendEmailCopy(form, formData) {
+    const response = await fetch(form.action, {
+        method: 'POST',
+        headers: {
+            Accept: 'application/json',
+            'X-Requested-With': 'XMLHttpRequest',
+        },
+        body: formData,
+    });
+
+    if (!response.ok) {
+        throw new Error('Email request failed');
+    }
+}
 
 function formatLabel(key) {
     return key

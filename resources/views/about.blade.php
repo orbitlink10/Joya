@@ -210,9 +210,9 @@
             <p>EVENTS &bull; DECOR &bull; FLORALS</p>
         </div>
         <div>
-            <p>Phone: +254 700 000 000</p>
-            <p>WhatsApp: +254 700 000 000</p>
-            <p>Email: hello@joyaatelier.test</p>
+            <p>Phone: +254 746 761 556</p>
+            <p>WhatsApp: +254 746 761 556</p>
+            <p>Email: joygachanja10@gmail.com</p>
             <p>Location: Nairobi, Kenya</p>
         </div>
         <div>

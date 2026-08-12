@@ -201,9 +201,9 @@
                     Tell us what you are celebrating and let us create something unforgettable.
                     Share your event details or flower request and we will respond with the best next step.
                 </p>
-                <a class="whatsapp-panel-link" href="https://wa.me/254700000000">Chat on WhatsApp</a>
+                <a class="whatsapp-panel-link" href="https://wa.me/254746761556">Chat on WhatsApp</a>
             </div>
-            <form class="contact-form" action="#" method="post" data-whatsapp-form data-whatsapp-context="Joya Atelier event booking request">
+            <form class="contact-form" action="{{ route('booking.request') }}" method="post" enctype="multipart/form-data" data-whatsapp-form data-whatsapp-context="Joya Atelier event booking request">
                 @csrf
                 <label>
                     <span>Name</span>
@@ -211,7 +211,7 @@
                 </label>
                 <label>
                     <span>Phone Number</span>
-                    <input type="tel" name="phone" placeholder="+254 700 000 000">
+                    <input type="tel" name="phone" placeholder="+254 746 761 556">
                 </label>
                 <label>
                     <span>Request Type</span>
@@ -329,9 +329,9 @@
             <p>EVENTS &bull; DECOR &bull; FLORALS</p>
         </div>
         <div>
-            <p>Phone: +254 700 000 000</p>
-            <p>WhatsApp: +254 700 000 000</p>
-            <p>Email: hello@joyaatelier.test</p>
+            <p>Phone: +254 746 761 556</p>
+            <p>WhatsApp: +254 746 761 556</p>
+            <p>Email: joygachanja10@gmail.com</p>
             <p>Location: Nairobi, Kenya</p>
         </div>
         <div>

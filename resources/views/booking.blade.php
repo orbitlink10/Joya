@@ -84,7 +84,7 @@
                 </div>
             </div>
 
-            <form class="contact-form booking-form" action="#" method="post" enctype="multipart/form-data" data-whatsapp-form data-whatsapp-context="Joya Atelier booking request">
+            <form class="contact-form booking-form" action="{{ route('booking.request') }}" method="post" enctype="multipart/form-data" data-whatsapp-form data-whatsapp-context="Joya Atelier booking request">
                 @csrf
                 <div class="form-row">
                     <label>
@@ -93,7 +93,7 @@
                     </label>
                     <label>
                         <span>Phone / WhatsApp</span>
-                        <input type="tel" name="phone" placeholder="+254 700 000 000" required>
+                        <input type="tel" name="phone" placeholder="+254 746 761 556" required>
                     </label>
                 </div>
                 <label>
@@ -196,9 +196,9 @@
             <p>EVENTS &bull; DECOR &bull; FLORALS</p>
         </div>
         <div>
-            <p>Phone: +254 700 000 000</p>
-            <p>WhatsApp: +254 700 000 000</p>
-            <p>Email: hello@joyaatelier.test</p>
+            <p>Phone: +254 746 761 556</p>
+            <p>WhatsApp: +254 746 761 556</p>
+            <p>Email: joygachanja10@gmail.com</p>
             <p>Location: Nairobi, Kenya</p>
         </div>
         <div>

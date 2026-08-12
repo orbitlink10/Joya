@@ -23,7 +23,7 @@
             <a href="#ribbon-flowers">Ribbon Tape</a>
             <a href="#custom-order">Custom Order</a>
         </nav>
-        <a class="header-cta" href="https://wa.me/254700000000?text=Hello%20Joya%20Atelier%2C%20I%20would%20like%20to%20order%20flowers.">Order on WhatsApp</a>
+        <a class="header-cta" href="https://wa.me/254746761556?text=Hello%20Joya%20Atelier%2C%20I%20would%20like%20to%20order%20flowers.">Order on WhatsApp</a>
     </header>
 
     <main>
@@ -56,7 +56,7 @@
                         <span>Fresh Roses</span>
                         <h3>Classic Rose Bouquet</h3>
                         <p>Romantic fresh roses arranged for love, birthdays, apologies, and anniversaries.</p>
-                        <a href="https://wa.me/254700000000?text=Hello%20Joya%20Atelier%2C%20I%20would%20like%20the%20Classic%20Rose%20Bouquet.">Order Roses</a>
+                        <a href="https://wa.me/254746761556?text=Hello%20Joya%20Atelier%2C%20I%20would%20like%20the%20Classic%20Rose%20Bouquet.">Order Roses</a>
                     </div>
                 </article>
                 <article class="product-card">
@@ -65,7 +65,7 @@
                         <span>Fresh Sunflowers</span>
                         <h3>Sunshine Sunflower Bouquet</h3>
                         <p>Bright sunflowers for graduations, birthdays, thank-you gifts, and cheerful surprises.</p>
-                        <a href="https://wa.me/254700000000?text=Hello%20Joya%20Atelier%2C%20I%20would%20like%20the%20Sunshine%20Sunflower%20Bouquet.">Order Sunflowers</a>
+                        <a href="https://wa.me/254746761556?text=Hello%20Joya%20Atelier%2C%20I%20would%20like%20the%20Sunshine%20Sunflower%20Bouquet.">Order Sunflowers</a>
                     </div>
                 </article>
                 <article class="product-card">
@@ -74,7 +74,7 @@
                         <span>Fresh Tulips</span>
                         <h3>Colorful Tulip Wrap</h3>
                         <p>Soft, elegant tulips for birthdays, appreciation gifts, home styling, and spring moods.</p>
-                        <a href="https://wa.me/254700000000?text=Hello%20Joya%20Atelier%2C%20I%20would%20like%20the%20Colorful%20Tulip%20Wrap.">Order Tulips</a>
+                        <a href="https://wa.me/254746761556?text=Hello%20Joya%20Atelier%2C%20I%20would%20like%20the%20Colorful%20Tulip%20Wrap.">Order Tulips</a>
                     </div>
                 </article>
             </div>
@@ -96,7 +96,7 @@
                         <span>Fuzzy Wire Bouquet</span>
                         <h3>Pink & Blue Lily Bouquet</h3>
                         <p>A soft statement bouquet with butterflies, layered wrap, and detailed handmade petals.</p>
-                        <a href="https://wa.me/254700000000?text=Hello%20Joya%20Atelier%2C%20I%20want%20a%20Pink%20and%20Blue%20Fuzzy%20Wire%20Bouquet.">Order This Design</a>
+                        <a href="https://wa.me/254746761556?text=Hello%20Joya%20Atelier%2C%20I%20want%20a%20Pink%20and%20Blue%20Fuzzy%20Wire%20Bouquet.">Order This Design</a>
                     </div>
                 </article>
                 <article class="product-card">
@@ -105,7 +105,7 @@
                         <span>Fuzzy Wire Roses</span>
                         <h3>Blush Pearl Bouquet</h3>
                         <p>Pink fuzzy-wire flowers finished with pearl details and a delicate lace-style wrap.</p>
-                        <a href="https://wa.me/254700000000?text=Hello%20Joya%20Atelier%2C%20I%20want%20a%20Blush%20Pearl%20Fuzzy%20Bouquet.">Order This Design</a>
+                        <a href="https://wa.me/254746761556?text=Hello%20Joya%20Atelier%2C%20I%20want%20a%20Blush%20Pearl%20Fuzzy%20Bouquet.">Order This Design</a>
                     </div>
                 </article>
                 <article class="product-card">
@@ -114,7 +114,7 @@
                         <span>Basket Gift</span>
                         <h3>Rose & Lily Basket</h3>
                         <p>A handcrafted basket arrangement with red roses, pink lilies, and a ribbon finish.</p>
-                        <a href="https://wa.me/254700000000?text=Hello%20Joya%20Atelier%2C%20I%20want%20the%20Rose%20and%20Lily%20Basket.">Order This Design</a>
+                        <a href="https://wa.me/254746761556?text=Hello%20Joya%20Atelier%2C%20I%20want%20the%20Rose%20and%20Lily%20Basket.">Order This Design</a>
                     </div>
                 </article>
                 <article class="product-card">
@@ -123,7 +123,7 @@
                         <span>Fuzzy Wire Sunflower</span>
                         <h3>Sunflower Keepsake</h3>
                         <p>A bright sunflower bouquet for graduations, birthdays, encouragement, and thank-you gifts.</p>
-                        <a href="https://wa.me/254700000000?text=Hello%20Joya%20Atelier%2C%20I%20want%20the%20Fuzzy%20Wire%20Sunflower%20Keepsake.">Order This Design</a>
+                        <a href="https://wa.me/254746761556?text=Hello%20Joya%20Atelier%2C%20I%20want%20the%20Fuzzy%20Wire%20Sunflower%20Keepsake.">Order This Design</a>
                     </div>
                 </article>
                 <article class="product-card">
@@ -132,7 +132,7 @@
                         <span>Neutral Bouquet</span>
                         <h3>Cream Cocoa Floral Wrap</h3>
                         <p>Warm neutral handmade flowers with cream, cocoa, and soft botanical tones.</p>
-                        <a href="https://wa.me/254700000000?text=Hello%20Joya%20Atelier%2C%20I%20want%20the%20Cream%20Cocoa%20Floral%20Wrap.">Order This Design</a>
+                        <a href="https://wa.me/254746761556?text=Hello%20Joya%20Atelier%2C%20I%20want%20the%20Cream%20Cocoa%20Floral%20Wrap.">Order This Design</a>
                     </div>
                 </article>
                 <article class="product-card">
@@ -141,7 +141,7 @@
                         <span>Handmade Bouquet</span>
                         <h3>Vanilla Cocoa Bouquet</h3>
                         <p>A soft cream and brown keepsake bouquet with handmade daisies, roses, and tulip shapes.</p>
-                        <a href="https://wa.me/254700000000?text=Hello%20Joya%20Atelier%2C%20I%20want%20the%20Vanilla%20Cocoa%20Bouquet.">Order This Design</a>
+                        <a href="https://wa.me/254746761556?text=Hello%20Joya%20Atelier%2C%20I%20want%20the%20Vanilla%20Cocoa%20Bouquet.">Order This Design</a>
                     </div>
                 </article>
                 <article class="product-card">
@@ -150,7 +150,7 @@
                         <span>Framed Gift</span>
                         <h3>Light-Up Framed Bouquet</h3>
                         <p>A framed floral keepsake with a pink bouquet, ribbon detail, and decorative lights.</p>
-                        <a href="https://wa.me/254700000000?text=Hello%20Joya%20Atelier%2C%20I%20want%20the%20Light-Up%20Framed%20Bouquet.">Order This Design</a>
+                        <a href="https://wa.me/254746761556?text=Hello%20Joya%20Atelier%2C%20I%20want%20the%20Light-Up%20Framed%20Bouquet.">Order This Design</a>
                     </div>
                 </article>
             </div>
@@ -172,7 +172,7 @@
                         <span>Ribbon Roses</span>
                         <h3>Red & Pink Ribbon Roses</h3>
                         <p>A romantic bouquet of red and blush ribbon roses, wrapped boldly for love gifts and anniversaries.</p>
-                        <a href="https://wa.me/254700000000?text=Hello%20Joya%20Atelier%2C%20I%20want%20the%20Red%20and%20Pink%20Ribbon%20Roses.">Order This Design</a>
+                        <a href="https://wa.me/254746761556?text=Hello%20Joya%20Atelier%2C%20I%20want%20the%20Red%20and%20Pink%20Ribbon%20Roses.">Order This Design</a>
                     </div>
                 </article>
                 <article class="product-card">
@@ -181,7 +181,7 @@
                         <span>Single Stems</span>
                         <h3>Purple Ribbon Rose Stems</h3>
                         <p>Glossy purple ribbon roses that can be sold as single stems, mini bunches, or custom bouquets.</p>
-                        <a href="https://wa.me/254700000000?text=Hello%20Joya%20Atelier%2C%20I%20want%20Purple%20Ribbon%20Rose%20Stems.">Order This Design</a>
+                        <a href="https://wa.me/254746761556?text=Hello%20Joya%20Atelier%2C%20I%20want%20Purple%20Ribbon%20Rose%20Stems.">Order This Design</a>
                     </div>
                 </article>
                 <article class="product-card">
@@ -190,7 +190,7 @@
                         <span>Ribbon Sunflowers</span>
                         <h3>Sunflower Ribbon Mix</h3>
                         <p>A cheerful handmade mix with ribbon sunflowers, roses, green details, and soft wrap styling.</p>
-                        <a href="https://wa.me/254700000000?text=Hello%20Joya%20Atelier%2C%20I%20want%20the%20Sunflower%20Ribbon%20Mix.">Order This Design</a>
+                        <a href="https://wa.me/254746761556?text=Hello%20Joya%20Atelier%2C%20I%20want%20the%20Sunflower%20Ribbon%20Mix.">Order This Design</a>
                     </div>
                 </article>
                 <article class="product-card">
@@ -199,7 +199,7 @@
                         <span>Ribbon Florals</span>
                         <h3>Blush Plumeria Ribbon Wrap</h3>
                         <p>Soft pink and ivory ribbon flowers with sparkling centers, perfect for delicate gifting.</p>
-                        <a href="https://wa.me/254700000000?text=Hello%20Joya%20Atelier%2C%20I%20want%20the%20Blush%20Plumeria%20Ribbon%20Wrap.">Order This Design</a>
+                        <a href="https://wa.me/254746761556?text=Hello%20Joya%20Atelier%2C%20I%20want%20the%20Blush%20Plumeria%20Ribbon%20Wrap.">Order This Design</a>
                     </div>
                 </article>
                 <article class="product-card">
@@ -208,7 +208,7 @@
                         <span>Ribbon Roses</span>
                         <h3>Blue Ivory Ribbon Bouquet</h3>
                         <p>Soft blue and ivory ribbon roses with pearl-style details and elegant wrap presentation.</p>
-                        <a href="https://wa.me/254700000000?text=Hello%20Joya%20Atelier%2C%20I%20want%20the%20Blue%20Ivory%20Ribbon%20Bouquet.">Order This Design</a>
+                        <a href="https://wa.me/254746761556?text=Hello%20Joya%20Atelier%2C%20I%20want%20the%20Blue%20Ivory%20Ribbon%20Bouquet.">Order This Design</a>
                     </div>
                 </article>
                 <article class="product-card">
@@ -217,7 +217,7 @@
                         <span>Mixed Ribbon Bouquet</span>
                         <h3>Dahlia Rose Ribbon Mix</h3>
                         <p>A dramatic mix of satin ribbon roses, dahlias, and plumeria-style flowers in rich jewel tones.</p>
-                        <a href="https://wa.me/254700000000?text=Hello%20Joya%20Atelier%2C%20I%20want%20the%20Dahlia%20Rose%20Ribbon%20Mix.">Order This Design</a>
+                        <a href="https://wa.me/254746761556?text=Hello%20Joya%20Atelier%2C%20I%20want%20the%20Dahlia%20Rose%20Ribbon%20Mix.">Order This Design</a>
                     </div>
                 </article>
                 <article class="product-card">
@@ -226,7 +226,7 @@
                         <span>Luxury Ribbon</span>
                         <h3>Cream Gold Ribbon Roses</h3>
                         <p>A refined cream rose bouquet with green leaves, gold accents, and a timeless keepsake feel.</p>
-                        <a href="https://wa.me/254700000000?text=Hello%20Joya%20Atelier%2C%20I%20want%20the%20Cream%20Gold%20Ribbon%20Roses.">Order This Design</a>
+                        <a href="https://wa.me/254746761556?text=Hello%20Joya%20Atelier%2C%20I%20want%20the%20Cream%20Gold%20Ribbon%20Roses.">Order This Design</a>
                     </div>
                 </article>
                 <article class="product-card">
@@ -235,7 +235,7 @@
                         <span>Bold Ribbon Bouquet</span>
                         <h3>Pink Lavender Ribbon Roses</h3>
                         <p>Pink and lavender ribbon roses wrapped in a bold dark presentation for a modern gift moment.</p>
-                        <a href="https://wa.me/254700000000?text=Hello%20Joya%20Atelier%2C%20I%20want%20the%20Pink%20Lavender%20Ribbon%20Roses.">Order This Design</a>
+                        <a href="https://wa.me/254746761556?text=Hello%20Joya%20Atelier%2C%20I%20want%20the%20Pink%20Lavender%20Ribbon%20Roses.">Order This Design</a>
                     </div>
                 </article>
             </div>
@@ -249,9 +249,9 @@
                     Send the flower type, colors, date, delivery location, and inspiration photo.
                     We can prepare real flowers, fuzzy-wire keepsakes, baskets, framed gifts, or mixed designs.
                 </p>
-                <a class="whatsapp-panel-link" href="https://wa.me/254700000000?text=Hello%20Joya%20Atelier%2C%20I%20would%20like%20a%20custom%20flower%20order.">Start on WhatsApp</a>
+                <a class="whatsapp-panel-link" href="https://wa.me/254746761556?text=Hello%20Joya%20Atelier%2C%20I%20would%20like%20a%20custom%20flower%20order.">Start on WhatsApp</a>
             </div>
-            <form class="contact-form" action="#" method="post" data-whatsapp-form data-whatsapp-context="Joya Atelier custom flower request">
+            <form class="contact-form" action="{{ route('booking.request') }}" method="post" enctype="multipart/form-data" data-whatsapp-form data-whatsapp-context="Joya Atelier custom flower request">
                 @csrf
                 <label>
                     <span>Name</span>
@@ -259,7 +259,7 @@
                 </label>
                 <label>
                     <span>Phone / WhatsApp</span>
-                    <input type="tel" name="phone" placeholder="+254 700 000 000">
+                    <input type="tel" name="phone" placeholder="+254 746 761 556">
                 </label>
                 <label>
                     <span>Flower Type</span>
@@ -313,9 +313,9 @@
             <p>EVENTS &bull; DECOR &bull; FLORALS</p>
         </div>
         <div>
-            <p>Phone: +254 700 000 000</p>
-            <p>WhatsApp: +254 700 000 000</p>
-            <p>Email: hello@joyaatelier.test</p>
+            <p>Phone: +254 746 761 556</p>
+            <p>WhatsApp: +254 746 761 556</p>
+            <p>Email: joygachanja10@gmail.com</p>
             <p>Location: Nairobi, Kenya</p>
         </div>
         <div>
